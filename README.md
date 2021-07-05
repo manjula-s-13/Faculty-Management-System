@@ -5,3 +5,6 @@ Simple program which can be done on database, but implemented using Tkinter modu
 # Required Modules
 * Tkinter (for frontend)
 * PyMySQL (for backend - DBMS)
+
+
+This project was implemented using Python Tkinter module for the front-end. The database was created and updated using MySQL.
